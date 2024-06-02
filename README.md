@@ -7,7 +7,7 @@
 
 I'm a passionate Software Developer pursuing my Bachelor of Engineering in Information Science. I have a strong foundation in programming and web development, and I'm continuously expanding my skill set.
 
-- 🌱 I’m currently learning advance Java and exploring cloud computing.
+- 🌱 I’m currently learning advance Java and exploring DevOps.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about Java, web development, or any technology-related topics.
 - 📫 How to reach me: [bhuvanarao2003@gmail.com](mailto:bhuvanarao2003@gmail.com)
@@ -22,7 +22,7 @@ I'm a passionate Software Developer pursuing my Bachelor of Engineering in Infor
 
 ### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ReactJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=reactjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-E23237?style=for-the-badge&logo=reactjs&logoColor=white)
 
 ### Tools and Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
