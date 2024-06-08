@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhuvana!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanarao2003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvanarao03)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvanarao2003)
 
 ## 🎓 About Me
@@ -32,7 +32,7 @@ I'm a passionate Software Developer pursuing my Bachelor of Engineering in Infor
 ## 📫 Contact Me
 
 - Email: [bhuvanarao2003@gmail.com](mailto:bhuvanarao2003@gmail.com)
-- LinkedIn: [linkedin.com/in/bhuvanarao2003](https://www.linkedin.com/in/bhuvanarao2003)
+- LinkedIn: [linkedin.com/in/bhuvanarao2003](https://www.linkedin.com/in/bhuvanarao03)
 
 ---
 
